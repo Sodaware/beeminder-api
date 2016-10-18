@@ -1,6 +1,13 @@
 Beeminder API
 =============
 
+**IMPORTANT** - This repository is deprecated. The project has been moved to
+the official Beeminder GitHub group.
+
+https://github.com/beeminder/beeminder-php-api
+
+-----
+
 A PHP interface to the Beeminder API. Handles everything in v1, although it
 still needs much better error handling and more thorough tests. 
 
